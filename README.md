@@ -1,5 +1,5 @@
 # network_scan_to_graphviz
-A Bash script that uses Nmap to scan a local network and generates a Graphviz-compatible file for network map visualization.
+Diffrent Bash script that uses Nmap to scan a local network and generates a Graphviz-compatible file for network map visualization.
 
 This Bash script performs a comprehensive Nmap scan of a specified network range and generates a Graphviz file for visualizing the network map. The script includes:
 
